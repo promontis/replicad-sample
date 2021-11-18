@@ -9448,6 +9448,21 @@ repeat-string@^1.6.1:
   resolved "https://registry.npmjs.org/repeat-string/-/repeat-string-1.6.1.tgz"
   integrity sha1-jcrkcOHIirwtYA//Sndihtp15jc=
 
+replicad-opencascadejs@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/replicad-opencascadejs/-/replicad-opencascadejs-0.6.0.tgz#31c3640096146c15836ae82726e394b6f335e115"
+  integrity sha512-f272QPLMl7RtrCIXXliE4p1pC/7L+Oz8VpQIAH6NGTZR3MUJYmhou5yRghqnjizpRqyVODY2jVMQ8XTm0U1KNw==
+
+replicad-threejs-helper@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/replicad-threejs-helper/-/replicad-threejs-helper-0.6.2.tgz#ac8a6136e203748cd7980f38750760866539d78e"
+  integrity sha512-TyoUOq9dljgYYJkFGgDtykVDSYTsJ5bk49oNnD5k3ClKpaUcg+IEmT4OYbV9pKcHWPM9fog2qri5sAspFIR4Kw==
+
+replicad@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/replicad/-/replicad-0.6.2.tgz#80cb303ba1fca46a264efa944daf47530c387065"
+  integrity sha512-/UW9sGX29OqyN8KB0DdkmxMhOb1kBDq/AxYpqQMoX+y4WuzqQOSu8VCGRzo0wjoHcRXq7p7UV9ANwmsam9ss3w==
+
 require-directory@^2.1.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz"
